@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1800" width="800" height="1800">
+  <rect width="800" height="1800" fill="#0c0a09"/>
+
+  <!-- Top Bar -->
+  <rect width="800" height="36" fill="#1c1917"/>
+  <text x="400" y="23" font-family="serif" font-size="12" font-weight="bold" fill="#d97706" text-anchor="middle">LUXURY SANITARYWARE &amp; ARCHITECTURAL INTERIORS | ARCHITECT DISCOUNT AVAILABLE</text>
+
+  <!-- Navbar -->
+  <rect y="36" width="800" height="74" fill="#141312" stroke="#292524"/>
+  <text x="40" y="80" font-family="serif" font-size="24" font-weight="bold" fill="#d97706">AURA LIVING</text>
+
+  <text x="360" y="78" font-family="sans-serif" font-size="13" font-weight="500" fill="#ffffff">Sanitaryware</text>
+  <text x="470" y="78" font-family="sans-serif" font-size="13" font-weight="500" fill="#a8a29e">Kitchen</text>
+  <text x="540" y="78" font-family="sans-serif" font-size="13" font-weight="500" fill="#a8a29e">Marble</text>
+  <text x="610" y="78" font-family="sans-serif" font-size="13" font-weight="500" fill="#a8a29e">Projects</text>
+
+  <rect x="680" y="58" width="90" height="32" rx="4" fill="#d97706"/>
+  <text x="725" y="79" font-family="sans-serif" font-size="12" font-weight="bold" fill="#000000" text-anchor="middle">Get Catalogue</text>
+
+  <!-- Hero Section -->
+  <rect y="110" width="800" height="460" fill="#1c1917"/>
+  <circle cx="250" cy="320" r="200" fill="#d97706" opacity="0.1"/>
+
+  <text x="50" y="210" font-family="sans-serif" font-size="12" font-weight="bold" fill="#f59e0b" letter-spacing="2">ARCHITECTURAL DESIGN STUDIO</text>
+  <text x="50" y="260" font-family="serif" font-size="44" font-weight="bold" fill="#ffffff">Luxury Italian Bath</text>
+  <text x="50" y="310" font-family="serif" font-size="44" font-weight="bold" fill="#f59e0b">&amp; Interior Spaces</text>
+  <text x="50" y="355" font-family="sans-serif" font-size="15" fill="#a8a29e">Transforming luxury villas, penthouses, and hotels across India.</text>
+
+  <rect x="50" y="385" width="180" height="48" rx="4" fill="#d97706"/>
+  <text x="140" y="414" font-family="sans-serif" font-size="13" font-weight="bold" fill="#000000" text-anchor="middle">VIEW CATALOGUE →</text>
+
+  <!-- Showcase Image Frame -->
+  <rect x="460" y="160" width="290" height="360" rx="12" fill="#292524" stroke="#d97706" stroke-width="2"/>
+  <rect x="480" y="180" width="250" height="260" rx="8" fill="#44403c"/>
+  <text x="605" y="310" font-family="serif" font-size="18" fill="#f59e0b" text-anchor="middle">Matte Gold Faucets</text>
+
+  <!-- Product Categories -->
+  <text x="400" y="620" font-family="serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">Featured Architectural Collections</text>
+
+  <g transform="translate(40, 660)">
+    <rect width="220" height="240" rx="8" fill="#1c1917" stroke="#292524"/>
+    <rect x="15" y="15" width="190" height="140" rx="4" fill="#292524"/>
+    <text x="110" y="185" font-family="serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Rain Showers &amp; Jacuzzi</text>
+    <text x="110" y="210" font-family="sans-serif" font-size="12" fill="#d97706" text-anchor="middle">Explore 45+ Designs</text>
+
+    <rect x="250" y="0" width="220" height="240" rx="8" fill="#1c1917" stroke="#d97706"/>
+    <rect x="265" y="15" width="190" height="140" rx="4" fill="#292524"/>
+    <text x="360" y="185" font-family="serif" font-size="16" font-weight="bold" fill="#f59e0b" text-anchor="middle">Designer Washbasins</text>
+    <text x="360" y="210" font-family="sans-serif" font-size="12" fill="#d97706" text-anchor="middle">Explore 60+ Designs</text>
+
+    <rect x="500" y="0" width="220" height="240" rx="8" fill="#1c1917" stroke="#292524"/>
+    <rect x="515" y="15" width="190" height="140" rx="4" fill="#292524"/>
+    <text x="610" y="185" font-family="serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Modular Kitchen Fittings</text>
+    <text x="610" y="210" font-family="sans-serif" font-size="12" fill="#d97706" text-anchor="middle">Explore 30+ Systems</text>
+  </g>
+
+  <!-- Request Price Quote Banner -->
+  <rect y="960" width="800" height="220" fill="#1c1917" stroke="#d97706" stroke-width="1"/>
+  <text x="400" y="1020" font-family="serif" font-size="30" font-weight="bold" fill="#ffffff" text-anchor="middle">Are You An Architect or Interior Designer?</text>
+  <text x="400" y="1055" font-family="sans-serif" font-size="15" fill="#a8a29e" text-anchor="middle">Get exclusive trade pricing, 3D CAD models, &amp; express sample delivery.</text>
+
+  <rect x="280" y="1090" width="240" height="48" rx="4" fill="#d97706"/>
+  <text x="400" y="1120" font-family="sans-serif" font-size="14" font-weight="bold" fill="#000000" text-anchor="middle">REQUEST ARCHITECT DISCOUNTS →</text>
+
+  <!-- Project Gallery -->
+  <text x="400" y="1240" font-family="serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">Recent Completed Villa Projects</text>
+
+  <g transform="translate(50, 1270)">
+    <rect width="330" height="220" rx="8" fill="#1c1917"/>
+    <rect x="15" y="15" width="300" height="140" rx="4" fill="#292524"/>
+    <text x="20" y="180" font-family="serif" font-size="16" font-weight="bold" fill="#ffffff">Golf Course Villa - Gurugram</text>
+    <text x="20" y="200" font-family="sans-serif" font-size="12" fill="#a8a29e">Full Sanitaryware &amp; Italian Marble Execution</text>
+
+    <rect x="370" y="0" width="330" height="220" rx="8" fill="#1c1917"/>
+    <rect x="385" y="15" width="300" height="140" rx="4" fill="#292524"/>
+    <text x="390" y="180" font-family="serif" font-size="16" font-weight="bold" fill="#ffffff">Penthouse Suite - South Delhi</text>
+    <text x="390" y="200" font-family="sans-serif" font-size="12" fill="#a8a29e">Gold Plated Faucets &amp; Automated Rain Shower</text>
+  </g>
+
+  <!-- Footer -->
+  <rect y="1650" width="800" height="150" fill="#0a0a0a"/>
+  <text x="50" y="1710" font-family="serif" font-size="20" font-weight="bold" fill="#d97706">AURA LIVING</text>
+  <text x="50" y="1740" font-family="sans-serif" font-size="12" fill="#78716c">© 2026 Aura Living Architectural Interiors. Designed &amp; Developed by Clickin DMA.</text>
+</svg>

@@ -1,0 +1,10 @@
+{
+  "name": "Remix Clickin Digital Marketing \u0026 AI Agency",
+  "description": "High-converting landing page for Clickin Digital Marketing Agency and AI Automation services by Rahul Singh.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

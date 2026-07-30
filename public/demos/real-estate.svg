@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1800" width="800" height="1800">
+  <rect width="800" height="1800" fill="#090d16"/>
+
+  <!-- Top Bar -->
+  <rect width="800" height="38" fill="#0f172a"/>
+  <text x="40" y="24" font-family="sans-serif" font-size="12" font-weight="bold" fill="#f59e0b">🏙️ SKYLINE REALTY - PREMIUM LUXURY PROPERTIES IN DELHI NCR &amp; GURUGRAM</text>
+  <text x="760" y="24" font-family="sans-serif" font-size="12" fill="#94a3b8" text-anchor="end">Call VIP Desk: +91 98765 00112</text>
+
+  <!-- Navbar -->
+  <rect y="38" width="800" height="72" fill="#0f172a" stroke="#1e293b"/>
+  <text x="40" y="82" font-family="sans-serif" font-size="24" font-weight="900" fill="#ffffff">SKYLINE <tspan fill="#f59e0b">PROPERTIES</tspan></text>
+
+  <text x="380" y="80" font-family="sans-serif" font-size="13" font-weight="600" fill="#f59e0b">Buy Villa</text>
+  <text x="460" y="80" font-family="sans-serif" font-size="13" font-weight="500" fill="#94a3b8">Penthouses</text>
+  <text x="560" y="80" font-family="sans-serif" font-size="13" font-weight="500" fill="#94a3b8">Plots</text>
+  <text x="620" y="80" font-family="sans-serif" font-size="13" font-weight="500" fill="#94a3b8">NRI Desk</text>
+
+  <rect x="690" y="58" width="80" height="32" rx="6" fill="#f59e0b"/>
+  <text x="730" y="79" font-family="sans-serif" font-size="11" font-weight="bold" fill="#000000" text-anchor="middle">Book Tour</text>
+
+  <!-- Hero Section -->
+  <rect y="110" width="800" height="460" fill="#0f172a"/>
+  <circle cx="200" cy="300" r="180" fill="#f59e0b" opacity="0.1"/>
+
+  <text x="50" y="200" font-family="sans-serif" font-size="13" font-weight="bold" fill="#f59e0b" letter-spacing="2">LUXURY RESIDENCES &amp; TOWNSHIPS</text>
+  <text x="50" y="250" font-family="sans-serif" font-size="38" font-weight="900" fill="#ffffff">Find Your Dream Villa</text>
+  <text x="50" y="295" font-family="sans-serif" font-size="38" font-weight="900" fill="#f59e0b">In Prime Locations</text>
+  <text x="50" y="340" font-family="sans-serif" font-size="15" fill="#94a3b8">Gated townships, private pools, 3/4 BHK penthouses starting at ₹ 1.25 Cr.</text>
+
+  <!-- Interactive Property Search Box -->
+  <rect x="50" y="380" width="700" height="130" rx="16" fill="#1e293b" stroke="#f59e0b" stroke-width="1.5"/>
+  <text x="80" y="415" font-family="sans-serif" font-size="13" font-weight="bold" fill="#ffffff">Location</text>
+  <rect x="80" y="425" width="180" height="40" rx="8" fill="#0f172a" stroke="#334155"/>
+  <text x="95" y="450" font-family="sans-serif" font-size="12" fill="#f59e0b">Golf Course Rd, Gurugram</text>
+
+  <text x="280" y="415" font-family="sans-serif" font-size="13" font-weight="bold" fill="#ffffff">BHK Type</text>
+  <rect x="280" y="425" width="160" height="40" rx="8" fill="#0f172a" stroke="#334155"/>
+  <text x="295" y="450" font-family="sans-serif" font-size="12" fill="#94a3b8">3 BHK &amp; 4 BHK Villa</text>
+
+  <text x="460" y="415" font-family="sans-serif" font-size="13" font-weight="bold" fill="#ffffff">Budget Range</text>
+  <rect x="460" y="425" width="140" height="40" rx="8" fill="#0f172a" stroke="#334155"/>
+  <text x="475" y="450" font-family="sans-serif" font-size="12" fill="#94a3b8">₹1 Cr - ₹5 Cr</text>
+
+  <rect x="620" y="425" width="110" height="40" rx="8" fill="#f59e0b"/>
+  <text x="675" y="450" font-family="sans-serif" font-size="12" font-weight="bold" fill="#000000" text-anchor="middle">SEARCH →</text>
+
+  <!-- Property Listings Grid -->
+  <text x="400" y="610" font-family="sans-serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">Featured Luxury Projects</text>
+
+  <g transform="translate(40, 640)">
+    <!-- Card 1 -->
+    <rect width="220" height="320" rx="12" fill="#1e293b" stroke="#334155"/>
+    <rect x="10" y="10" width="200" height="150" rx="8" fill="#334155"/>
+    <text x="20" y="185" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Skyline Heights</text>
+    <text x="20" y="205" font-family="sans-serif" font-size="12" fill="#94a3b8">Sector 54, Gurugram</text>
+    <text x="20" y="235" font-family="sans-serif" font-size="16" font-weight="bold" fill="#f59e0b">₹ 1.85 Cr Onwards</text>
+    <text x="20" y="255" font-family="sans-serif" font-size="11" fill="#64748b">3 BHK | 2400 Sq.Ft | Ready Possession</text>
+    <rect x="20" y="270" width="180" height="34" rx="6" fill="#f59e0b"/>
+    <text x="110" y="292" font-family="sans-serif" font-size="12" font-weight="bold" fill="#000" text-anchor="middle">Get Floor Plan</text>
+
+    <!-- Card 2 -->
+    <rect x="250" y="0" width="220" height="320" rx="12" fill="#1e293b" stroke="#f59e0b"/>
+    <rect x="260" y="10" width="200" height="150" rx="8" fill="#334155"/>
+    <text x="270" y="185" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Emerald Residency</text>
+    <text x="270" y="205" font-family="sans-serif" font-size="12" fill="#94a3b8">Greater Noida West</text>
+    <text x="270" y="235" font-family="sans-serif" font-size="16" font-weight="bold" fill="#f59e0b">₹ 98 Lakh Onwards</text>
+    <text x="270" y="255" font-family="sans-serif" font-size="11" fill="#64748b">2 &amp; 3 BHK | Golf Facing</text>
+    <rect x="270" y="270" width="180" height="34" rx="6" fill="#f59e0b"/>
+    <text x="360" y="292" font-family="sans-serif" font-size="12" font-weight="bold" fill="#000" text-anchor="middle">Get Floor Plan</text>
+
+    <!-- Card 3 -->
+    <rect x="500" y="0" width="220" height="320" rx="12" fill="#1e293b" stroke="#334155"/>
+    <rect x="510" y="10" width="200" height="150" rx="8" fill="#334155"/>
+    <text x="520" y="185" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff">Grand Imperial Villa</text>
+    <text x="520" y="205" font-family="sans-serif" font-size="12" fill="#94a3b8">South Delhi Vasant Kunj</text>
+    <text x="520" y="235" font-family="sans-serif" font-size="16" font-weight="bold" fill="#f59e0b">₹ 4.50 Cr Onwards</text>
+    <text x="520" y="255" font-family="sans-serif" font-size="11" fill="#64748b">4 BHK Independent Villa</text>
+    <rect x="520" y="270" width="180" height="34" rx="6" fill="#f59e0b"/>
+    <text x="610" y="292" font-family="sans-serif" font-size="12" font-weight="bold" fill="#000" text-anchor="middle">Get Floor Plan</text>
+  </g>
+
+  <!-- Lead Form Banner -->
+  <rect y="1020" width="800" height="240" fill="#1e293b"/>
+  <text x="400" y="1070" font-family="sans-serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">Schedule a Free Site Visit in Luxury Cabs</text>
+  <text x="400" y="1105" font-family="sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">Free pick &amp; drop service anywhere in Delhi NCR. Instant site tour callback.</text>
+
+  <rect x="180" y="1135" width="280" height="44" rx="8" fill="#0f172a" stroke="#334155"/>
+  <text x="200" y="1162" font-family="sans-serif" font-size="13" fill="#64748b">Enter Your Mobile Number</text>
+
+  <rect x="480" y="1135" width="150" height="44" rx="8" fill="#f59e0b"/>
+  <text x="555" y="1162" font-family="sans-serif" font-size="13" font-weight="bold" fill="#000000" text-anchor="middle">BOOK VISIT NOW</text>
+
+  <!-- Footer -->
+  <rect y="1620" width="800" height="180" fill="#080c14"/>
+  <text x="50" y="1680" font-family="sans-serif" font-size="20" font-weight="bold" fill="#f59e0b">SKYLINE REALTY</text>
+  <text x="50" y="1710" font-family="sans-serif" font-size="12" fill="#64748b">RERA Approved Agent #DLRERA2026/998 | Website Developed by Clickin DMA</text>
+</svg>

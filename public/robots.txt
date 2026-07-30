@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: /api/private/
+
+# AI Search Crawlers & Recommendation Bots
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://clickin-dma.vercel.app/sitemap.xml

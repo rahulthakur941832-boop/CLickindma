@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1800" width="800" height="1800">
+  <rect width="800" height="1800" fill="#0f0c08"/>
+
+  <!-- Top Announcement Bar -->
+  <rect width="800" height="38" fill="#1f1810"/>
+  <text x="400" y="24" font-family="serif" font-size="12" font-weight="bold" fill="#f59e0b" text-anchor="middle">🍷 WEEKEND CANDLELIGHT DINING &amp; COCKTAIL NIGHT: RESERVE TABLE FOR 2 &amp; GET COMPLIMENTARY DESSERT</text>
+
+  <!-- Navbar -->
+  <rect y="38" width="800" height="74" fill="#19130d" stroke="#2d2217"/>
+  <text x="40" y="82" font-family="serif" font-size="26" font-weight="bold" fill="#f59e0b">GOURMET BISTRO</text>
+
+  <text x="380" y="80" font-family="sans-serif" font-size="13" font-weight="600" fill="#ffffff">Digital Menu</text>
+  <text x="490" y="80" font-family="sans-serif" font-size="13" font-weight="500" fill="#d97706">Chef Special</text>
+  <text x="580" y="80" font-family="sans-serif" font-size="13" font-weight="500" fill="#d97706">Book Table</text>
+
+  <rect x="670" y="58" width="90" height="34" rx="6" fill="#f59e0b"/>
+  <text x="715" y="80" font-family="sans-serif" font-size="12" font-weight="bold" fill="#000000" text-anchor="middle">Reserve</text>
+
+  <!-- Hero Section -->
+  <rect y="112" width="800" height="460" fill="#1a140e"/>
+  <circle cx="200" cy="300" r="180" fill="#f59e0b" opacity="0.12"/>
+
+  <text x="50" y="210" font-family="serif" font-size="13" font-weight="bold" fill="#f59e0b" letter-spacing="2">FINE DINING &amp; ARTISANAL COCKTAILS</text>
+  <text x="50" y="260" font-family="serif" font-size="44" font-weight="bold" fill="#ffffff">A Symphony of</text>
+  <text x="50" y="310" font-family="serif" font-size="44" font-weight="bold" fill="#f59e0b">Authentic Flavors</text>
+  <text x="50" y="355" font-family="sans-serif" font-size="15" fill="#a89f91">Handcrafted Woodfired Pizzas, Italian Pastas, &amp; Signature Mocktails.</text>
+
+  <rect x="50" y="385" width="200" height="48" rx="8" fill="#f59e0b"/>
+  <text x="150" y="415" font-family="sans-serif" font-size="14" font-weight="bold" fill="#000000" text-anchor="middle">VIEW ONLINE MENU →</text>
+
+  <!-- Reservation Box -->
+  <rect x="460" y="160" width="290" height="360" rx="16" fill="#2d2217" stroke="#f59e0b" stroke-width="2"/>
+  <text x="490" y="200" font-family="serif" font-size="20" font-weight="bold" fill="#ffffff">Reserve a Table</text>
+
+  <rect x="490" y="220" width="230" height="40" rx="8" fill="#19130d" stroke="#423223"/>
+  <text x="505" y="245" font-family="sans-serif" font-size="12" fill="#8c7a68">Select Date &amp; Time Slot</text>
+
+  <rect x="490" y="270" width="230" height="40" rx="8" fill="#19130d" stroke="#423223"/>
+  <text x="505" y="295" font-family="sans-serif" font-size="12" fill="#8c7a68">Number of Guests (e.g. 2 / 4 / 8)</text>
+
+  <rect x="490" y="320" width="230" height="40" rx="8" fill="#19130d" stroke="#423223"/>
+  <text x="505" y="345" font-family="sans-serif" font-size="12" fill="#f59e0b">Phone / WhatsApp for Confirmation</text>
+
+  <rect x="490" y="380" width="230" height="44" rx="8" fill="#f59e0b"/>
+  <text x="605" y="407" font-family="sans-serif" font-size="13" font-weight="bold" fill="#000000" text-anchor="middle">CONFIRM RESERVATION</text>
+
+  <!-- Menu Highlights -->
+  <text x="400" y="630" font-family="serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">Chef's Signature Dishes</text>
+
+  <g transform="translate(40, 660)">
+    <rect width="220" height="280" rx="12" fill="#19130d" stroke="#2d2217"/>
+    <rect x="15" y="15" width="190" height="140" rx="8" fill="#2d2217"/>
+    <text x="25" y="185" font-family="serif" font-size="15" font-weight="bold" fill="#ffffff">Truffle Mushroom Pizza</text>
+    <text x="25" y="210" font-family="sans-serif" font-size="14" font-weight="bold" fill="#f59e0b">₹ 650</text>
+    <text x="25" y="235" font-family="sans-serif" font-size="11" fill="#a89f91">Fresh mozzarella, black truffle oil, wild mushrooms</text>
+
+    <rect x="250" y="0" width="220" height="280" rx="12" fill="#19130d" stroke="#f59e0b"/>
+    <rect x="265" y="15" width="190" height="140" rx="8" fill="#2d2217"/>
+    <text x="275" y="185" font-family="serif" font-size="15" font-weight="bold" fill="#ffffff">Smoked Pink Sauce Pasta</text>
+    <text x="275" y="210" font-family="sans-serif" font-size="14" font-weight="bold" fill="#f59e0b">₹ 580</text>
+    <text x="275" y="235" font-family="sans-serif" font-size="11" fill="#a89f91">Artisanal penne with roasted garlic &amp; parmesan</text>
+
+    <rect x="500" y="0" width="220" height="280" rx="12" fill="#19130d" stroke="#2d2217"/>
+    <rect x="515" y="15" width="190" height="140" rx="8" fill="#2d2217"/>
+    <text x="525" y="185" font-family="serif" font-size="15" font-weight="bold" fill="#ffffff">Signature Tiramisu</text>
+    <text x="525" y="210" font-family="sans-serif" font-size="14" font-weight="bold" fill="#f59e0b">₹ 390</text>
+    <text x="525" y="235" font-family="sans-serif" font-size="11" fill="#a89f91">Espresso soaked ladyfingers with mascarpone</text>
+  </g>
+
+  <!-- Footer -->
+  <rect y="1620" width="800" height="180" fill="#0a0705"/>
+  <text x="50" y="1680" font-family="serif" font-size="20" font-weight="bold" fill="#f59e0b">GOURMET BISTRO</text>
+  <text x="50" y="1710" font-family="sans-serif" font-size="12" fill="#665343">© 2026 Gourmet Bistro Restaurant. Website Built by Clickin DMA.</text>
+</svg>

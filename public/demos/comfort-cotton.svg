@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1800" width="800" height="1800">
+  <!-- Background -->
+  <rect width="800" height="1800" fill="#0f0f11"/>
+
+  <!-- Top Bar -->
+  <rect width="800" height="36" fill="#18181b"/>
+  <text x="400" y="23" font-family="sans-serif" font-size="12" font-weight="bold" fill="#fbbf24" text-anchor="middle">✨ FESTIVE SALE IS LIVE: GET UP TO 50% OFF ON ETHNIC KURTIS & ANARKALIS | FREE SHIPPING</text>
+
+  <!-- Navbar -->
+  <rect y="36" width="800" height="70" fill="#121215" stroke="#27272a" stroke-width="1"/>
+  <text x="40" y="78" font-family="serif" font-size="24" font-weight="900" fill="#d97706">COMFORT COTTON</text>
+
+  <!-- Nav Links -->
+  <text x="320" y="76" font-family="sans-serif" font-size="13" font-weight="600" fill="#ffffff">Home</text>
+  <text x="380" y="76" font-family="sans-serif" font-size="13" font-weight="500" fill="#a1a1aa">Kurtis</text>
+  <text x="440" y="76" font-family="sans-serif" font-size="13" font-weight="500" fill="#a1a1aa">Sarees</text>
+  <text x="500" y="76" font-family="sans-serif" font-size="13" font-weight="500" fill="#a1a1aa">Anarkalis</text>
+  <text x="580" y="76" font-family="sans-serif" font-size="13" font-weight="500" fill="#a1a1aa">Festive Special</text>
+
+  <rect x="680" y="56" width="80" height="32" rx="16" fill="#f59e0b"/>
+  <text x="720" y="77" font-family="sans-serif" font-size="12" font-weight="bold" fill="#000000" text-anchor="middle">Cart (3)</text>
+
+  <!-- Hero Section -->
+  <rect y="106" width="800" height="420" fill="#1e1b18"/>
+  <!-- Decorative Background Glow -->
+  <circle cx="200" cy="300" r="180" fill="#d97706" opacity="0.15"/>
+  <circle cx="650" cy="250" r="140" fill="#b45309" opacity="0.12"/>
+
+  <!-- Hero Content -->
+  <text x="50" y="200" font-family="sans-serif" font-size="14" font-weight="bold" fill="#fbbf24" letter-spacing="2">NEW ARRIVALS 2026</text>
+  <text x="50" y="250" font-family="serif" font-size="42" font-weight="bold" fill="#ffffff">Pure Cotton Ethnic</text>
+  <text x="50" y="300" font-family="serif" font-size="42" font-weight="bold" fill="#fbbf24">Elegance &amp; Comfort</text>
+  <text x="50" y="340" font-family="sans-serif" font-size="15" fill="#d4d4d8">Handcrafted Jaipuri prints, breathable fabrics &amp; rich zari borders.</text>
+
+  <rect x="50" y="370" width="160" height="48" rx="8" fill="#d97706"/>
+  <text x="130" y="400" font-family="sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">SHOP NOW →</text>
+
+  <!-- Hero Image Card Mockup -->
+  <rect x="480" y="140" width="270" height="340" rx="16" fill="#27272a" stroke="#d97706" stroke-width="2"/>
+  <rect x="500" y="160" width="230" height="240" rx="12" fill="#3f3f46"/>
+  <text x="615" y="285" font-family="serif" font-size="18" font-weight="bold" fill="#fbbf24" text-anchor="middle">Jaipuri Cotton Set</text>
+  <text x="615" y="315" font-family="sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">₹ 1,899 <tspan font-size="12" fill="#a1a1aa" text-decoration="line-through">₹ 3,499</tspan></text>
+
+  <!-- Categories Section -->
+  <text x="400" y="570" font-family="serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">Shop By Category</text>
+  <line x1="360" y1="585" x2="440" y2="585" stroke="#d97706" stroke-width="3"/>
+
+  <!-- Category Cards -->
+  <g transform="translate(40, 610)">
+    <rect width="220" height="200" rx="12" fill="#18181b" stroke="#27272a"/>
+    <rect x="15" y="15" width="190" height="130" rx="8" fill="#27272a"/>
+    <text x="110" y="90" font-family="sans-serif" font-size="14" fill="#a1a1aa" text-anchor="middle">[ Straight Kurtis ]</text>
+    <text x="110" y="170" font-family="sans-serif" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="middle">Straight Kurtis</text>
+  </g>
+
+  <g transform="translate(290, 610)">
+    <rect width="220" height="200" rx="12" fill="#18181b" stroke="#d97706"/>
+    <rect x="15" y="15" width="190" height="130" rx="8" fill="#27272a"/>
+    <text x="110" y="90" font-family="sans-serif" font-size="14" fill="#fbbf24" text-anchor="middle">[ Anarkali Sets ]</text>
+    <text x="110" y="170" font-family="sans-serif" font-size="15" font-weight="bold" fill="#fbbf24" text-anchor="middle">Anarkali Sets</text>
+  </g>
+
+  <g transform="translate(540, 610)">
+    <rect width="220" height="200" rx="12" fill="#18181b" stroke="#27272a"/>
+    <rect x="15" y="15" width="190" height="130" rx="8" fill="#27272a"/>
+    <text x="110" y="90" font-family="sans-serif" font-size="14" fill="#a1a1aa" text-anchor="middle">[ Festive Sarees ]</text>
+    <text x="110" y="170" font-family="sans-serif" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="middle">Festive Sarees</text>
+  </g>
+
+  <!-- Featured Products Section -->
+  <text x="400" y="870" font-family="serif" font-size="28" font-weight="bold" fill="#ffffff" text-anchor="middle">Bestsellers Collection</text>
+
+  <!-- Product Grid -->
+  <g transform="translate(40, 900)">
+    <!-- Product 1 -->
+    <rect x="0" y="0" width="220" height="280" rx="12" fill="#18181b" stroke="#27272a"/>
+    <rect x="10" y="10" width="200" height="160" rx="8" fill="#27272a"/>
+    <text x="20" y="195" font-family="sans-serif" font-size="13" font-weight="bold" fill="#ffffff">Royal Blue Chanderi Kurti</text>
+    <text x="20" y="220" font-family="sans-serif" font-size="14" font-weight="bold" fill="#fbbf24">₹ 1,499 <tspan font-size="11" fill="#71717a">₹ 2,999</tspan></text>
+    <rect x="20" y="235" width="180" height="32" rx="6" fill="#f59e0b"/>
+    <text x="110" y="256" font-family="sans-serif" font-size="12" font-weight="bold" fill="#000" text-anchor="middle">Add to Cart</text>
+
+    <!-- Product 2 -->
+    <rect x="250" y="0" width="220" height="280" rx="12" fill="#18181b" stroke="#d97706"/>
+    <rect x="260" y="10" width="200" height="160" rx="8" fill="#27272a"/>
+    <text x="270" y="195" font-family="sans-serif" font-size="13" font-weight="bold" fill="#ffffff">Maroon Zari Anarkali</text>
+    <text x="270" y="220" font-family="sans-serif" font-size="14" font-weight="bold" fill="#fbbf24">₹ 2,299 <tspan font-size="11" fill="#71717a">₹ 4,199</tspan></text>
+    <rect x="270" y="235" width="180" height="32" rx="6" fill="#f59e0b"/>
+    <text x="360" y="256" font-family="sans-serif" font-size="12" font-weight="bold" fill="#000" text-anchor="middle">Add to Cart</text>
+
+    <!-- Product 3 -->
+    <rect x="500" y="0" width="220" height="280" rx="12" fill="#18181b" stroke="#27272a"/>
+    <rect x="510" y="10" width="200" height="160" rx="8" fill="#27272a"/>
+    <text x="520" y="195" font-family="sans-serif" font-size="13" font-weight="bold" fill="#ffffff">Floral Printed Palazzo Set</text>
+    <text x="520" y="220" font-family="sans-serif" font-size="14" font-weight="bold" fill="#fbbf24">₹ 1,799 <tspan font-size="11" fill="#71717a">₹ 3,299</tspan></text>
+    <rect x="520" y="235" width="180" height="32" rx="6" fill="#f59e0b"/>
+    <text x="610" y="256" font-family="sans-serif" font-size="12" font-weight="bold" fill="#000" text-anchor="middle">Add to Cart</text>
+  </g>
+
+  <!-- Banner Section -->
+  <rect y="1220" width="800" height="180" fill="#d97706"/>
+  <text x="400" y="1280" font-family="serif" font-size="32" font-weight="900" fill="#000000" text-anchor="middle">FAST EXPRESS DELIVERY ACROSS INDIA</text>
+  <text x="400" y="1320" font-family="sans-serif" font-size="16" font-weight="bold" fill="#18181b" text-anchor="middle">Cash On Delivery Available | Easy 7-Day Exchange Guarantee</text>
+
+  <!-- Reviews Section -->
+  <text x="400" y="1450" font-family="serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle">What Our Happy Customers Say</text>
+  <g transform="translate(50, 1480)">
+    <rect width="330" height="140" rx="12" fill="#18181b" stroke="#27272a"/>
+    <text x="20" y="35" font-family="sans-serif" font-size="14" fill="#fbbf24">★★★★★</text>
+    <text x="20" y="65" font-family="sans-serif" font-size="13" fill="#d4d4d8">"Pure cotton fabric! Perfect fit and vibrant colors. Delivered in 3 days."</text>
+    <text x="20" y="110" font-family="sans-serif" font-size="12" font-weight="bold" fill="#a1a1aa">— Ananya Sharma, Delhi</text>
+  </g>
+
+  <g transform="translate(420, 1480)">
+    <rect width="330" height="140" rx="12" fill="#18181b" stroke="#27272a"/>
+    <text x="20" y="35" font-family="sans-serif" font-size="14" fill="#fbbf24">★★★★★</text>
+    <text x="20" y="65" font-family="sans-serif" font-size="13" fill="#d4d4d8">"Loved the Jaipuri suit set. Razorpay payment was smooth and fast!"</text>
+    <text x="20" y="110" font-family="sans-serif" font-size="12" font-weight="bold" fill="#a1a1aa">— Priya Patel, Mumbai</text>
+  </g>
+
+  <!-- Footer -->
+  <rect y="1660" width="800" height="140" fill="#09090b"/>
+  <text x="50" y="1710" font-family="serif" font-size="20" font-weight="bold" fill="#d97706">COMFORT COTTON</text>
+  <text x="50" y="1740" font-family="sans-serif" font-size="12" fill="#71717a">© 2026 Comfort Cotton Ethnic Wear. Designed &amp; Developed by Clickin DMA.</text>
+  <text x="650" y="1710" font-family="sans-serif" font-size="12" fill="#a1a1aa">WhatsApp Us: +91 88822 92448</text>
+</svg>

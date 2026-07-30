@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1800" width="800" height="1800">
+  <rect width="800" height="1800" fill="#0d0d0d"/>
+
+  <!-- Top Announcement Bar -->
+  <rect width="800" height="38" fill="#1f1f1f"/>
+  <text x="400" y="24" font-family="sans-serif" font-size="12" font-weight="black" fill="#ef4444" text-anchor="middle">🔥 NEW YEAR FITNESS PASS: 12 MONTHS MEMBERSHIP AT ₹1,499/MONTH | FREE PERSONAL TRAINER</text>
+
+  <!-- Navbar -->
+  <rect y="38" width="800" height="74" fill="#141414" stroke="#262626"/>
+  <text x="40" y="82" font-family="sans-serif" font-size="26" font-weight="900" fill="#ef4444">FITPULSE <tspan fill="#ffffff">GYM</tspan></text>
+
+  <text x="380" y="80" font-family="sans-serif" font-size="13" font-weight="700" fill="#ffffff">Workout Plans</text>
+  <text x="500" y="80" font-family="sans-serif" font-size="13" font-weight="500" fill="#a3a3a3">Trainers</text>
+  <text x="580" y="80" font-family="sans-serif" font-size="13" font-weight="500" fill="#a3a3a3">Pricing</text>
+
+  <rect x="670" y="58" width="90" height="34" rx="6" fill="#ef4444"/>
+  <text x="715" y="80" font-family="sans-serif" font-size="12" font-weight="black" fill="#ffffff" text-anchor="middle">Free Trial</text>
+
+  <!-- Hero Section -->
+  <rect y="112" width="800" height="460" fill="#171717"/>
+  <circle cx="200" cy="300" r="180" fill="#ef4444" opacity="0.12"/>
+
+  <text x="50" y="210" font-family="sans-serif" font-size="13" font-weight="900" fill="#ef4444" letter-spacing="2">24/7 PREMIUM FITNESS STUDIO</text>
+  <text x="50" y="260" font-family="sans-serif" font-size="44" font-weight="900" fill="#ffffff">TRANSFORM YOUR</text>
+  <text x="50" y="310" font-family="sans-serif" font-size="44" font-weight="900" fill="#ef4444">BODY &amp; MIND TODAY</text>
+  <text x="50" y="355" font-family="sans-serif" font-size="15" fill="#a3a3a3">Certified strength coaches, cardio zone, steam sauna &amp; customized diet charts.</text>
+
+  <rect x="50" y="385" width="200" height="48" rx="8" fill="#ef4444"/>
+  <text x="150" y="415" font-family="sans-serif" font-size="14" font-weight="black" fill="#ffffff" text-anchor="middle">BOOK FREE TRIAL →</text>
+
+  <!-- Gym Form Card -->
+  <rect x="460" y="160" width="290" height="360" rx="16" fill="#262626" stroke="#ef4444" stroke-width="2"/>
+  <text x="490" y="200" font-family="sans-serif" font-size="18" font-weight="black" fill="#ffffff">Claim 3-Day Free Pass</text>
+
+  <rect x="490" y="220" width="230" height="40" rx="8" fill="#171717" stroke="#404040"/>
+  <text x="505" y="245" font-family="sans-serif" font-size="12" fill="#737373">Full Name</text>
+
+  <rect x="490" y="270" width="230" height="40" rx="8" fill="#171717" stroke="#404040"/>
+  <text x="505" y="295" font-family="sans-serif" font-size="12" fill="#737373">Mobile Number</text>
+
+  <rect x="490" y="320" width="230" height="40" rx="8" fill="#171717" stroke="#404040"/>
+  <text x="505" y="345" font-family="sans-serif" font-size="12" fill="#ef4444">Select Slot (Morning / Evening)</text>
+
+  <rect x="490" y="380" width="230" height="44" rx="8" fill="#ef4444"/>
+  <text x="605" y="407" font-family="sans-serif" font-size="13" font-weight="black" fill="#ffffff" text-anchor="middle">CONFIRM PASS NOW</text>
+
+  <!-- Pricing Plans -->
+  <text x="400" y="630" font-family="sans-serif" font-size="28" font-weight="black" fill="#ffffff" text-anchor="middle">Membership Packages</text>
+
+  <g transform="translate(40, 660)">
+    <rect width="220" height="300" rx="12" fill="#171717" stroke="#262626"/>
+    <text x="25" y="45" font-family="sans-serif" font-size="18" font-weight="bold" fill="#ffffff">3 Months Pass</text>
+    <text x="25" y="85" font-family="sans-serif" font-size="28" font-weight="900" fill="#ef4444">₹ 4,999</text>
+    <text x="25" y="125" font-family="sans-serif" font-size="12" fill="#a3a3a3">✓ Gym Floor Access</text>
+    <text x="25" y="150" font-family="sans-serif" font-size="12" fill="#a3a3a3">✓ Steam &amp; Locker</text>
+    <text x="25" y="175" font-family="sans-serif" font-size="12" fill="#a3a3a3">✓ Basic Diet Chart</text>
+    <rect x="25" y="230" width="170" height="40" rx="8" fill="#ef4444"/>
+    <text x="110" y="255" font-family="sans-serif" font-size="13" font-weight="black" fill="#ffffff" text-anchor="middle">Join Now</text>
+
+    <rect x="250" y="0" width="220" height="300" rx="12" fill="#171717" stroke="#ef4444"/>
+    <text x="275" y="45" font-family="sans-serif" font-size="18" font-weight="bold" fill="#ef4444">12 Months VIP</text>
+    <text x="275" y="85" font-family="sans-serif" font-size="28" font-weight="900" fill="#ffffff">₹ 14,999</text>
+    <text x="275" y="125" font-family="sans-serif" font-size="12" fill="#a3a3a3">✓ All Area Access</text>
+    <text x="275" y="150" font-family="sans-serif" font-size="12" fill="#a3a3a3">✓ 12 Personal Training Sessions</text>
+    <text x="275" y="175" font-family="sans-serif" font-size="12" fill="#a3a3a3">✓ Free Nutritionist Consultation</text>
+    <rect x="275" y="230" width="170" height="40" rx="8" fill="#ef4444"/>
+    <text x="360" y="255" font-family="sans-serif" font-size="13" font-weight="black" fill="#ffffff" text-anchor="middle">Join VIP</text>
+
+    <rect x="500" y="0" width="220" height="300" rx="12" fill="#171717" stroke="#262626"/>
+    <text x="525" y="45" font-family="sans-serif" font-size="18" font-weight="bold" fill="#ffffff">Personal Training</text>
+    <text x="525" y="85" font-family="sans-serif" font-size="28" font-weight="900" fill="#ef4444">₹ 7,999/mo</text>
+    <text x="525" y="125" font-family="sans-serif" font-size="12" fill="#a3a3a3">✓ 1-on-1 Dedicated Coach</text>
+    <text x="525" y="150" font-family="sans-serif" font-size="12" fill="#a3a3a3">✓ Weekly Body Scan</text>
+    <rect x="525" y="230" width="170" height="40" rx="8" fill="#ef4444"/>
+    <text x="610" y="255" font-family="sans-serif" font-size="13" font-weight="black" fill="#ffffff" text-anchor="middle">Enquire Coach</text>
+  </g>
+
+  <!-- Footer -->
+  <rect y="1620" width="800" height="180" fill="#050505"/>
+  <text x="50" y="1680" font-family="sans-serif" font-size="20" font-weight="900" fill="#ef4444">FITPULSE GYM</text>
+  <text x="50" y="1710" font-family="sans-serif" font-size="12" fill="#525252">© 2026 FitPulse Fitness Studio. Website Designed &amp; Maintained by Clickin DMA.</text>
+</svg>
